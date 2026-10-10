@@ -7,23 +7,14 @@
 </td>
 <td valign="middle">
 
-I'm a student at INSAT and a member of Securinets, the security club. Most of my work goes into our CTFs: I write the challenges, and I build them to be beginner-friendly first. One real technique taught properly beats a hard puzzle with no lesson in it.
+I'm a student at INSAT and a member of the technical team at Securinets, the security club. I play CTFs and I write them: the challenges, the flags, and the parts that have to hold up once players start breaking them.
 
-Android, reverse engineering and malware triage are where I spend most of my time.
+Cybersecurity is the thing I keep coming back to. I'm most drawn to taking software apart to see how it really works: reverse engineering, Android internals, and what malware does once it runs.
 
 </td>
 </tr>
 </table>
 
-## What I'm on
+## Roles
 
-<img src="now.svg" alt="Current projects: fadigattack, re-track, malware" width="100%"/>
-
-The CTF repo has the public side: [re-track](https://github.com/khalilammarr/CTF/tree/main/re-track), the beginner reverse-engineering ladder, with writeups for each binary.
-
-## Earlier work
-
-- [Haniny](https://github.com/khalilammarr/Haniny-AI-Driver-Assistant-), an AI driver assistant
-- [Next-Generation AI Honeypot](https://github.com/khalilammarr/Next-Generation_AI_Honeypot)
-- [Gestion du Robot](https://github.com/khalilammarr/Gestion-Du-Robot-Java), a robot manager in Java
-- [CTF writeups](https://github.com/khalilammarr/CTF)
+<img src="roles.svg" alt="Roles: student at INSAT, technical team at Securinets, CTF player and author" width="100%"/>

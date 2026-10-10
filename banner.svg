@@ -13,9 +13,9 @@
   <rect width="1200" height="300" fill="url(#glow)"/>
   <rect x="0" y="0" width="1200" height="4" fill="#818cf8"/>
   <text x="70" y="108" font-family="sans-serif" font-size="64" font-weight="700" fill="#e0e7ff">Khalil</text>
-  <text x="70" y="146" font-family="monospace" font-size="20" fill="#a5b4fc">khalil@securinets:~$ cat now.txt</text>
-  <text x="70" y="182" font-family="monospace" font-size="20" fill="#e0e7ff">fadigattack   <tspan fill="#7eb89a">17 Android challenges, one APK</tspan></text>
-  <text x="70" y="212" font-family="monospace" font-size="20" fill="#e0e7ff">re-track      <tspan fill="#7eb89a">beginner ladder, Linux and .NET binaries</tspan></text>
-  <text x="70" y="242" font-family="monospace" font-size="20" fill="#e0e7ff">malware       <tspan fill="#7eb89a">case files from samples I compile myself</tspan></text>
-  <text x="70" y="282" font-family="monospace" font-size="16" fill="#6366f1">INSAT · Securinets</text>
+  <text x="70" y="146" font-family="monospace" font-size="20" fill="#a5b4fc">khalil@securinets:~$ whoami</text>
+  <text x="70" y="182" font-family="monospace" font-size="20" fill="#e0e7ff">student <tspan fill="#7eb89a">at INSAT</tspan></text>
+  <text x="70" y="212" font-family="monospace" font-size="20" fill="#e0e7ff">role    <tspan fill="#7eb89a">technical team, Securinets</tspan></text>
+  <text x="70" y="242" font-family="monospace" font-size="20" fill="#e0e7ff">play    <tspan fill="#7eb89a">CTF player and challenge author</tspan></text>
+  <text x="70" y="282" font-family="monospace" font-size="16" fill="#6366f1">passion: cybersecurity</text>
 </svg>
