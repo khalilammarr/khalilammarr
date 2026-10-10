@@ -2,34 +2,28 @@
 
 <table>
 <tr>
-<td width="250" valign="top">
-<img src="khalil.png" width="230" alt="Khalil" style="border-radius:16px"/>
+<td width="260" valign="middle" align="center">
+<img src="khalil-circle.png" width="200" alt="Khalil"/>
 </td>
-<td valign="top">
+<td valign="middle">
 
-I am a student at INSAT, in the Securinets security club. Most of what I make is for our CTFs:
-Android, reverse engineering, and malware triage.
+I'm a student at INSAT and a member of Securinets, the security club. Most of my work goes into our CTFs: I write the challenges, and I build them to be beginner-friendly first. One real technique taught properly beats a hard puzzle with no lesson in it.
+
+Android, reverse engineering and malware triage are where I spend most of my time.
 
 </td>
 </tr>
 </table>
 
-## Now
+## What I'm on
 
-**fadigattack.** An Android app that is broken on purpose. Seventeen challenges, each tied to an
-OWASP Mobile Top 10 category. Private for now.
+<img src="now.svg" alt="Current projects: fadigattack, re-track, malware" width="100%"/>
 
-**re-track.** A beginner ladder of binaries for people who have never opened a disassembler.
-Writeups included. [Read it here](https://github.com/khalilammarr/CTF/tree/main/re-track)
+The CTF repo has the public side: [re-track](https://github.com/khalilammarr/CTF/tree/main/re-track), the beginner reverse-engineering ladder, with writeups for each binary.
 
-**Malware case files.** Intrusion stories built from samples I compile myself, so nothing in them is
-a real sample and every artifact is one I can explain.
+## Earlier work
 
-## Earlier
-
-- [Haniny](https://github.com/khalilammarr/Haniny-AI-Driver-Assistant-): AI driver assistant
+- [Haniny](https://github.com/khalilammarr/Haniny-AI-Driver-Assistant-), an AI driver assistant
 - [Next-Generation AI Honeypot](https://github.com/khalilammarr/Next-Generation_AI_Honeypot)
-- [Gestion du Robot](https://github.com/khalilammarr/Gestion-Du-Robot-Java): robot manager in Java
+- [Gestion du Robot](https://github.com/khalilammarr/Gestion-Du-Robot-Java), a robot manager in Java
 - [CTF writeups](https://github.com/khalilammarr/CTF)
-
-<sub>Everything I have public is listed on my profile. If something is private, ask me.</sub>

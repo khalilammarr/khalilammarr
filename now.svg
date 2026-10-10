@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="278" viewBox="0 0 1200 278">
+  <rect width="1200" height="278" fill="#0a0e1a"/>
+  <text x="40" y="44" font-family="monospace" font-size="16" fill="#818cf8">$ ls ./now/</text>
+  <g font-family="sans-serif">
+    <rect x="40" y="66" width="360" height="186" rx="14" fill="#11172b" stroke="#818cf8" stroke-opacity="0.35"/>
+    <rect x="62" y="88" width="82" height="22" rx="11" fill="#818cf8" fill-opacity="0.18"/>
+    <text x="73" y="104" font-family="monospace" font-size="12" fill="#c7d2fe">PRIVATE</text>
+    <text x="62" y="146" font-size="26" font-weight="700" fill="#e0e7ff">fadigattack</text>
+    <text x="62" y="176" font-size="16" fill="#a5b4fc">An Android app broken on purpose.</text>
+    <text x="62" y="200" font-size="16" fill="#a5b4fc">17 challenges, each on an OWASP</text>
+    <text x="62" y="222" font-size="16" fill="#a5b4fc">Mobile Top 10 category.</text>
+
+    <rect x="420" y="66" width="360" height="186" rx="14" fill="#11172b" stroke="#818cf8" stroke-opacity="0.35"/>
+    <rect x="442" y="88" width="72" height="22" rx="11" fill="#7eb89a" fill-opacity="0.18"/>
+    <text x="453" y="104" font-family="monospace" font-size="12" fill="#b5e0c6">PUBLIC</text>
+    <text x="442" y="146" font-size="26" font-weight="700" fill="#e0e7ff">re-track</text>
+    <text x="442" y="176" font-size="16" fill="#a5b4fc">Beginner reverse engineering.</text>
+    <text x="442" y="200" font-size="16" fill="#a5b4fc">Linux and .NET binaries, each</text>
+    <text x="442" y="222" font-size="16" fill="#a5b4fc">with a writeup.</text>
+
+    <rect x="800" y="66" width="360" height="186" rx="14" fill="#11172b" stroke="#818cf8" stroke-opacity="0.35"/>
+    <rect x="822" y="88" width="106" height="22" rx="11" fill="#f4f5fb" fill-opacity="0.08"/>
+    <text x="833" y="104" font-family="monospace" font-size="12" fill="#e0e7ff">IN PROGRESS</text>
+    <text x="822" y="146" font-size="26" font-weight="700" fill="#e0e7ff">malware</text>
+    <text x="822" y="176" font-size="16" fill="#a5b4fc">Intrusion case files from</text>
+    <text x="822" y="200" font-size="16" fill="#a5b4fc">clean-room samples I compile myself.</text>
+    <text x="822" y="222" font-size="16" fill="#a5b4fc">No real malware involved.</text>
+  </g>
+</svg>
