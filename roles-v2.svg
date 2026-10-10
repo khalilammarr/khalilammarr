@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="262" viewBox="0 0 1200 262">
+  <rect width="1200" height="262" fill="#0a0e1a"/>
+  <g font-family="sans-serif">
+    <rect x="40" y="30" width="360" height="200" rx="16" fill="#11172b" stroke="#818cf8" stroke-opacity="0.35"/>
+    <rect x="62" y="54" width="110" height="24" rx="12" fill="#818cf8" fill-opacity="0.18"/>
+    <text x="77" y="71" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#c7d2fe">STUDENT</text>
+    <text x="62" y="128" font-size="28" font-weight="700" fill="#e0e7ff">INSAT</text>
+    <text x="62" y="162" font-size="16" fill="#a5b4fc">Studying at the National Institute</text>
+    <text x="62" y="186" font-size="16" fill="#a5b4fc">of Applied Science and Technology.</text>
+
+    <rect x="420" y="30" width="360" height="200" rx="16" fill="#11172b" stroke="#818cf8" stroke-opacity="0.35"/>
+    <rect x="442" y="54" width="170" height="24" rx="12" fill="#7eb89a" fill-opacity="0.18"/>
+    <text x="457" y="71" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#b5e0c6">TECHNICAL TEAM</text>
+    <text x="442" y="128" font-size="28" font-weight="700" fill="#e0e7ff">Securinets</text>
+    <text x="442" y="162" font-size="16" fill="#a5b4fc">I work on the platform and the</text>
+    <text x="442" y="186" font-size="16" fill="#a5b4fc">challenges behind our CTFs.</text>
+
+    <rect x="800" y="30" width="360" height="200" rx="16" fill="#11172b" stroke="#818cf8" stroke-opacity="0.35"/>
+    <rect x="822" y="54" width="170" height="24" rx="12" fill="#f4f5fb" fill-opacity="0.08"/>
+    <text x="837" y="71" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#e0e7ff">PLAYER &amp; AUTHOR</text>
+    <text x="822" y="128" font-size="28" font-weight="700" fill="#e0e7ff">CTF</text>
+    <text x="822" y="162" font-size="16" fill="#a5b4fc">Playing and writing. I learn the</text>
+    <text x="822" y="186" font-size="16" fill="#a5b4fc">most from the challenges I write.</text>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <radialGradient id="glow" cx="0.9" cy="0.3" r="0.7">
+      <stop offset="0" stop-color="#818cf8" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#0a0e1a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" x2="1">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#7eb89a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="#0a0e1a"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <text x="70" y="150" font-family="sans-serif" font-size="96" font-weight="800" letter-spacing="10" fill="#e0e7ff">KHALIL</text>
+  <rect x="72" y="176" width="260" height="3" fill="url(#rule)"/>
+  <text x="72" y="216" font-family="sans-serif" font-size="24" fill="#a5b4fc">CTF author &#183; Securinets technical team &#183; INSAT</text>
+  <text x="72" y="252" font-family="sans-serif" font-size="18" letter-spacing="3" fill="#7eb89a">CYBERSECURITY</text>
+</svg>

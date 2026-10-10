@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Khalil, terminal banner" width="100%"/>
+<img src="hero-v3.svg" alt="Khalil" width="100%"/>
 
 <table>
 <tr>
@@ -15,6 +15,4 @@ Cybersecurity is the thing I keep coming back to. I'm most drawn to taking softw
 </tr>
 </table>
 
-## Roles
-
-<img src="roles.svg" alt="Roles: student at INSAT, technical team at Securinets, CTF player and author" width="100%"/>
+<img src="roles-v2.svg" alt="Student at INSAT, technical team at Securinets, player and author of CTFs" width="100%"/>
