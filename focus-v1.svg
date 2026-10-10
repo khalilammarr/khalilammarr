@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+  <rect width="1200" height="270" rx="20" fill="#0a0e1a"/>
+  <text x="32" y="36" font-family="sans-serif" font-size="22" font-weight="700" fill="#e0e7ff">What I work on</text>
+  <rect x="10" y="58" width="283" height="192" rx="16" fill="#11172b" stroke="#818cf8" stroke-opacity="0.35"/>
+<rect x="32" y="82" width="46" height="4" rx="2" fill="#818cf8"/>
+<text x="32" y="112" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#818cf8">MOBILE</text>
+<text x="32" y="148" font-family="sans-serif" font-size="26" font-weight="700" fill="#e0e7ff">Android</text>
+<text x="32" y="180" font-family="sans-serif" font-size="14" fill="#a5b4fc">Challenge design against the</text>
+<text x="32" y="202" font-family="sans-serif" font-size="14" fill="#a5b4fc">OWASP Mobile Top 10: storage,</text>
+<text x="32" y="224" font-family="sans-serif" font-size="14" fill="#a5b4fc">crypto, pinning, binaries.</text>
+<rect x="309" y="58" width="283" height="192" rx="16" fill="#11172b" stroke="#7eb89a" stroke-opacity="0.35"/>
+<rect x="331" y="82" width="46" height="4" rx="2" fill="#7eb89a"/>
+<text x="331" y="112" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#7eb89a">BINARIES</text>
+<text x="331" y="148" font-family="sans-serif" font-size="26" font-weight="700" fill="#e0e7ff">Reversing</text>
+<text x="331" y="180" font-family="sans-serif" font-size="14" fill="#a5b4fc">Linux ELF and .NET binaries.</text>
+<text x="331" y="202" font-family="sans-serif" font-size="14" fill="#a5b4fc">Patching, unpacking and</text>
+<text x="331" y="224" font-family="sans-serif" font-size="14" fill="#a5b4fc">debugger bypasses.</text>
+<rect x="608" y="58" width="283" height="192" rx="16" fill="#11172b" stroke="#818cf8" stroke-opacity="0.35"/>
+<rect x="630" y="82" width="46" height="4" rx="2" fill="#818cf8"/>
+<text x="630" y="112" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#818cf8">ANALYSIS</text>
+<text x="630" y="148" font-family="sans-serif" font-size="26" font-weight="700" fill="#e0e7ff">Malware</text>
+<text x="630" y="180" font-family="sans-serif" font-size="14" fill="#a5b4fc">Clean-room samples I compile</text>
+<text x="630" y="202" font-family="sans-serif" font-size="14" fill="#a5b4fc">myself, written up as case</text>
+<text x="630" y="224" font-family="sans-serif" font-size="14" fill="#a5b4fc">files. Never real samples.</text>
+<rect x="907" y="58" width="283" height="192" rx="16" fill="#11172b" stroke="#7eb89a" stroke-opacity="0.35"/>
+<rect x="929" y="82" width="46" height="4" rx="2" fill="#7eb89a"/>
+<text x="929" y="112" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#7eb89a">INFRA</text>
+<text x="929" y="148" font-family="sans-serif" font-size="26" font-weight="700" fill="#e0e7ff">Platform</text>
+<text x="929" y="180" font-family="sans-serif" font-size="14" fill="#a5b4fc">The infrastructure our CTFs</text>
+<text x="929" y="202" font-family="sans-serif" font-size="14" fill="#a5b4fc">run on: scoring, deploys, and</text>
+<text x="929" y="224" font-family="sans-serif" font-size="14" fill="#a5b4fc">keeping it alive mid-event.</text>
+</svg>
