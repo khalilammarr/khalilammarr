@@ -3,8 +3,8 @@
 </p>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-minimal-mobile-v8.svg" />
-  <img src="assets/profile-minimal-v8.svg" width="100%" alt="Khalil Ammar, Networks and Telecommunications at INSAT and Securinets technical team. Mobile security, malware analysis, reverse engineering, bug bounty, and CTFs." />
+  <source media="(max-width: 600px)" srcset="assets/profile-intro-mobile-v9.svg" />
+  <img src="assets/profile-intro-v9.svg" width="100%" alt="Khalil Ammar, a Networks and Telecommunications engineering student at INSAT and part of the Securinets technical team. He focuses on mobile security, malware analysis, reverse engineering, CTFs, challenge writing, and bug bounty." />
 </picture>
 
 <p align="center">

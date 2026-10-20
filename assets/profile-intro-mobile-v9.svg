@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="278" viewBox="0 0 480 278" role="img">
+<title>Khalil Ammar — INSAT, Securinets, and cybersecurity interests</title>
+<defs>
+  <radialGradient id="green" cx="0" cy="0" r=".8"><stop stop-color="#153128" stop-opacity=".42"/><stop offset="1" stop-color="#11141e" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet" cx="1" cy="0" r=".8"><stop stop-color="#2b2745" stop-opacity=".55"/><stop offset="1" stop-color="#11141e" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="480" height="278" rx="20" fill="#0a0d14"/>
+<rect x="1" y="1" width="478" height="276" rx="19" fill="none" stroke="#282d3f"/>
+<rect x="7" y="7" width="466" height="264" rx="14" fill="#11141e"/>
+<rect x="7" y="7" width="466" height="264" rx="14" fill="url(#green)"/>
+<rect x="7" y="7" width="466" height="264" rx="14" fill="url(#violet)"/>
+<text x="24" y="38" font-family="Geist, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#82d5bb">FADIGAA</text>
+<text x="24" y="76" font-family="Geist, ui-sans-serif, system-ui, sans-serif" font-size="25" font-weight="700" fill="#eef0f7">Khalil Ammar.</text>
+<text x="24" y="103" font-family="Geist, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" fill="#aaa2ff">INSAT / SECURINETS TECHNICAL TEAM</text>
+<path d="M24 128H456" stroke="#303548"/>
+<g font-family="Geist, ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#c2c9d8">
+  <text x="24" y="157">I’m a Networks and Telecommunications engineering</text>
+  <text x="24" y="177">student at INSAT and part of the Securinets technical</text>
+  <text x="24" y="197">team. I like taking software apart to understand how it</text>
+  <text x="24" y="217">behaves and fails, mainly through mobile security, malware</text>
+  <text x="24" y="237">analysis, and reverse engineering. I also compete in CTFs,</text>
+  <text x="24" y="257">write challenges, and hunt for bugs.</text>
+</g>
+</svg>
