@@ -1,16 +1,16 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-mobile-about.svg" />
-  <img src="assets/profile-dark-about.svg" width="100%" alt="Khalil Ammar · fadigaa. I’m a Networks and Telecommunications engineering student at INSAT and part of the Securinets technical team. I play CTFs, write challenges, and hunt for bugs. My main interests are malware analysis, reverse engineering, and mobile security. I spend time tracing application behavior, reading decompiled code, debugging binaries, and testing how apps handle data and trust." />
+  <source media="(max-width: 600px)" srcset="assets/profile-workshop-entry-mobile-v3.svg" />
+  <img src="assets/profile-workshop-entry-v3.svg" width="100%" alt="Khalil Ammar speaking about PromptSpy at a cybersecurity workshop. I’m a Networks and Telecommunications engineering student at INSAT and part of the Securinets technical team. I play CTFs, write challenges, and hunt for bugs. My main interests are malware analysis, reverse engineering, and mobile security." />
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-mobile-security.svg" />
-  <img src="assets/profile-dark-security.svg" width="100%" alt="What I work on. Mobile security: App reversing, runtime instrumentation, local storage, authentication, and certificate pinning. My work so far has focused on Android; I plan to explore iOS too. Malware analysis &amp; reversing: Understanding program behavior, unpacking binaries, and working through anti-debugging checks.  Bug bounty: Looking for vulnerabilities in web and mobile applications.  CTFs: Competing, writing challenges, and helping run the infrastructure behind them. " />
+  <source media="(max-width: 600px)" srcset="assets/profile-mobile-security-v2.svg" />
+  <img src="assets/profile-dark-security-v2.svg" width="100%" alt="What I work on. Mobile security: App reversing, runtime instrumentation, local storage, authentication, and certificate pinning. My work so far has focused on Android; I plan to explore iOS too. Malware analysis &amp; reversing: Understanding program behavior, unpacking binaries, and working through anti-debugging checks.  Bug bounty: Looking for vulnerabilities in web and mobile applications.  CTFs: Competing, writing challenges, and helping run the infrastructure behind them. " />
 </picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-mobile-ai.svg" />
-  <img src="assets/profile-dark-ai.svg" width="100%" alt="I explore how to get more out of AI through multi-agent orchestration, context engineering, and tool-augmented workflows. I’m interested in task decomposition, memory, and feedback loops—how agents coordinate, verify their outputs, and support security research and development within practical token, latency, and cost budgets." />
+  <source media="(max-width: 600px)" srcset="assets/profile-mobile-ai-v2.svg" />
+  <img src="assets/profile-dark-ai-v2.svg" width="100%" alt="I explore how to get more out of AI through multi-agent orchestration, context engineering, and tool-augmented workflows. I’m interested in task decomposition, memory, and feedback loops—how agents coordinate, verify their outputs, and support security research and development within practical token, latency, and cost budgets." />
 </picture>
 
 <p align="center">
