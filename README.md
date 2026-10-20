@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/workshop-portrait-v7.webp" width="280" alt="Khalil speaking at a cybersecurity workshop." />
+  <img src="assets/workshop-portrait-v7.webp" width="220" alt="Khalil speaking at a cybersecurity workshop." />
 </p>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-text-mobile-v4.svg" />
-  <img src="assets/profile-text-v4.svg" width="100%" alt="Khalil Ammar, a Networks and Telecommunications engineering student at INSAT and member of the Securinets technical team. Interests include mobile security, malware analysis, reverse engineering, bug bounty, CTFs, and AI agent systems." />
+  <source media="(max-width: 600px)" srcset="assets/profile-minimal-mobile-v8.svg" />
+  <img src="assets/profile-minimal-v8.svg" width="100%" alt="Khalil Ammar, Networks and Telecommunications at INSAT and Securinets technical team. Mobile security, malware analysis, reverse engineering, bug bounty, and CTFs." />
 </picture>
 
 <p align="center">
