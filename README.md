@@ -1,9 +1,23 @@
-<img src="hero-v3.svg" alt="Khalil — CTF author, Securinets technical team, INSAT" width="100%"/>
+# Khalil Ammar · fadigaa
 
-<br/>
+I’m a Networks and Telecommunications engineering student at **INSAT** and part of the **Securinets technical team**. I play CTFs, write challenges, and hunt for bugs.
 
-<img src="about-v1.svg" width="100%" alt="I'm a student at INSAT and part of the technical team at Securinets, the university's security club. I play CTFs, and I write them: the challenges, the flags, and the infrastructure that has to hold up once players start attacking it. Cybersecurity is what I keep coming back to. What hooks me is the moment software stops being a black box, when a decompiler, a debugger or a packet capture turns someone else's finished work into something I can read, and then change. I build challenges the same way I like to solve them: beginner-friendly first, one real technique each, and no flag that can be guessed instead of earned. Interests: reverse engineering, Android security, malware analysis, game hacking, bug bounty."/>
+My main interests are **malware analysis, reverse engineering, and mobile security**, especially Android. I spend time tracing application behavior, reading decompiled code, debugging binaries, and testing how apps handle data and trust.
 
-<br/>
+I’m also curious about AI and its use in security. My projects include LLM-assisted Android analysis, honeypots, and defenses for agents that use tools.
 
-<img src="focus-v1.svg" width="100%" alt="What I work on. Android: challenge design against the OWASP Mobile Top 10 — storage, crypto, pinning, binaries. Reversing: Linux ELF and .NET binaries, patching, unpacking and debugger bypasses. Malware: clean-room samples I compile myself, written up as case files, never real samples. Platform: the infrastructure our CTFs run on — scoring, deploys, and keeping it alive mid-event."/>
+## What I work on
+
+- **Android security:** APK reversing, runtime instrumentation, local storage, authentication, and certificate pinning.
+- **Malware analysis and reversing:** understanding program behavior, unpacking binaries, and working through anti-debugging checks.
+- **Bug bounty:** looking for vulnerabilities in web and mobile applications.
+- **CTFs:** competing, writing challenges, and helping run the infrastructure behind them.
+
+## Selected work
+
+- [fadigattack-mobile](https://github.com/khalilammarr/fadigattack-mobile) — an intentionally vulnerable Android app I built for Securinets CTF challenges, covering the OWASP Mobile Top 10.
+- [Droid LLM Hunter](https://github.com/khalilammarr/droid-llm-hunter) — experimenting with LLMs to assist Android vulnerability analysis.
+- [SENTINEL](https://github.com/khalilammarr/sentinel-indabax-2026) — a defense layer for tool-using LLM agents, built for IndabaX Tunisia 2026.
+- [CTF writeups](https://github.com/khalilammarr/CTF) — notes and solutions from challenges I’ve worked through.
+
+[Portfolio](https://khalilammar.me) · [Writeups](https://khalilammar.me/blog) · [LinkedIn](https://www.linkedin.com/in/khalil-ammar-00665a334/) · [Email](mailto:mohamedkhalil.ammr@insat.ucar.tn)
