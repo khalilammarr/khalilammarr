@@ -4,7 +4,7 @@ I’m a Networks and Telecommunications engineering student at **INSAT** and par
 
 My main interests are **malware analysis, reverse engineering, and mobile security**. I spend time tracing application behavior, reading decompiled code, debugging binaries, and testing how apps handle data and trust.
 
-I’m also curious about AI and its use in security. My projects include LLM-assisted Android analysis, honeypots, and defenses for agents that use tools.
+I explore how to get more out of AI through multi-agent orchestration, context engineering, and tool-augmented workflows. I’m interested in task decomposition, memory, and feedback loops—how agents coordinate, verify their outputs, and support security research and development within practical token, latency, and cost budgets.
 
 ## What I work on
 
