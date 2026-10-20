@@ -1,4 +1,6 @@
-<img src="assets/workshop-banner-v6.svg" width="100%" alt="Khalil speaking at a cybersecurity workshop." />
+<p align="center">
+  <img src="assets/workshop-portrait-v7.webp" width="280" alt="Khalil speaking at a cybersecurity workshop." />
+</p>
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-text-mobile-v4.svg" />
