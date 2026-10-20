@@ -1,21 +1,11 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-workshop-entry-mobile-v3.svg" />
-  <img src="assets/profile-workshop-entry-v3.svg" width="100%" alt="Khalil Ammar speaking about PromptSpy at a cybersecurity workshop. I’m a Networks and Telecommunications engineering student at INSAT and part of the Securinets technical team. I play CTFs, write challenges, and hunt for bugs. My main interests are malware analysis, reverse engineering, and mobile security." />
-</picture>
-
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-mobile-security-v2.svg" />
-  <img src="assets/profile-dark-security-v2.svg" width="100%" alt="What I work on. Mobile security: App reversing, runtime instrumentation, local storage, authentication, and certificate pinning. My work so far has focused on Android; I plan to explore iOS too. Malware analysis &amp; reversing: Understanding program behavior, unpacking binaries, and working through anti-debugging checks.  Bug bounty: Looking for vulnerabilities in web and mobile applications.  CTFs: Competing, writing challenges, and helping run the infrastructure behind them. " />
-</picture>
-
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-mobile-ai-v2.svg" />
-  <img src="assets/profile-dark-ai-v2.svg" width="100%" alt="I explore how to get more out of AI through multi-agent orchestration, context engineering, and tool-augmented workflows. I’m interested in task decomposition, memory, and feedback loops—how agents coordinate, verify their outputs, and support security research and development within practical token, latency, and cost budgets." />
+  <source media="(max-width: 600px)" srcset="assets/profile-text-mobile-v4.svg" />
+  <img src="assets/profile-text-v4.svg" width="100%" alt="Khalil Ammar, a Networks and Telecommunications engineering student at INSAT and member of the Securinets technical team. Interests include mobile security, malware analysis, reverse engineering, bug bounty, CTFs, and AI agent systems." />
 </picture>
 
 <p align="center">
-  <a href="https://khalilammar.me"><img src="assets/link-portfolio.svg" width="24%" alt="Portfolio" /></a>
-  <a href="https://khalilammar.me/blog"><img src="assets/link-writeups.svg" width="24%" alt="Writeups" /></a>
-  <a href="https://www.linkedin.com/in/khalil-ammar-00665a334/"><img src="assets/link-linkedin.svg" width="24%" alt="Linkedin" /></a>
-  <a href="mailto:mohamedkhalil.ammr@insat.ucar.tn"><img src="assets/link-email.svg" width="24%" alt="Email" /></a>
+  <a href="https://khalilammar.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://khalilammar.me/blog"><b>Writeups</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/khalil-ammar-00665a334/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:mohamedkhalil.ammr@insat.ucar.tn"><b>Email</b></a>
 </p>
