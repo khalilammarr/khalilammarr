@@ -1,0 +1,86 @@
+{
+ "burpsuite": {
+  "title": "Burp Suite",
+  "hex": "FF6633"
+ },
+ "wireshark": {
+  "title": "Wireshark",
+  "hex": "1679A7"
+ },
+ "metasploit": {
+  "title": "Metasploit",
+  "hex": "2596CD"
+ },
+ "owasp": {
+  "title": "OWASP",
+  "hex": "000000"
+ },
+ "tryhackme": {
+  "title": "TryHackMe",
+  "hex": "212C42"
+ },
+ "python": {
+  "title": "Python",
+  "hex": "3776AB"
+ },
+ "c": {
+  "title": "C",
+  "hex": "A8B9CC"
+ },
+ "gnubash": {
+  "title": "GNU Bash",
+  "hex": "4EAA25"
+ },
+ "openjdk": {
+  "title": "OpenJDK",
+  "hex": "000000"
+ },
+ "kotlin": {
+  "title": "Kotlin",
+  "hex": "7F52FF"
+ },
+ "swift": {
+  "title": "Swift",
+  "hex": "F05138"
+ },
+ "typescript": {
+  "title": "TypeScript",
+  "hex": "3178C6"
+ },
+ "nextdotjs": {
+  "title": "Next.js",
+  "hex": "000000"
+ },
+ "archlinux": {
+  "title": "Arch Linux",
+  "hex": "1793D1"
+ },
+ "kalilinux": {
+  "title": "Kali Linux",
+  "hex": "557C94"
+ },
+ "android": {
+  "title": "Android",
+  "hex": "34A853"
+ },
+ "ios": {
+  "title": "iOS",
+  "hex": "000000"
+ },
+ "docker": {
+  "title": "Docker",
+  "hex": "2496ED"
+ },
+ "virtualbox": {
+  "title": "VirtualBox",
+  "hex": "2F61B4"
+ },
+ "qemu": {
+  "title": "QEMU",
+  "hex": "FF6600"
+ },
+ "git": {
+  "title": "Git",
+  "hex": "F05032"
+ }
+}
